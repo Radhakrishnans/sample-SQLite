@@ -1,9 +1,5 @@
 package com.example.sqlite;
 
-/**
- * Created by IndriHimawan on 9/29/15.
- */
-
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.Cursor;
