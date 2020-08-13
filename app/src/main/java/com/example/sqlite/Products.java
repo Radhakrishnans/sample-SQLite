@@ -1,8 +1,5 @@
 package com.example.sqlite;
 
-/**
- * Created by IndriHimawan on 9/29/15.
- */
 public class Products {
 
     private int _id;
